@@ -1,0 +1,72 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Lonavala Tour Guide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_lake">Lake/Dams</string>
+
+    <!-- Category name for the vocabulary places for colors [CHAR LIMIT=20] -->
+    <string name="category_fort">Forts</string>
+
+    <!-- Category name for the vocabulary places for numbers [CHAR LIMIT=20] -->
+    <string name="category_cave">Caves</string>
+
+    <!-- Category name for the vocabulary places for family members [CHAR LIMIT=20] -->
+    <string name="category_other">Other</string>
+
+    <!--  -->
+    <string name="tungarli_lake">It is great fun even for adventure enthusiasts as one can trek
+        through the nearby areas. The Tungarli Dam is built alongside Tungarli lake in the region
+        of Rajmachi. The dam helps in the irrigation facilities of the region.
+        One can also camp alongside the lake after an adventurous trekking trip
+        making it a soulful experience.</string>
+    <string name="pawana_lake">At a distance of 15 km from Lonavala Railway Station and 10 km from
+        Lohagad Fort, Pawna Lake is an artificial lake formed by water of Pawna dam.
+        Situated towards the outskirts of Lonavala, this lake is one of the top
+        Lonavala tourist places.</string>
+    <string name="bushi_dam">This is one of the most popular spots in Maharashtra. People from
+        all over the state, especially the weekend travelers flock to this place
+        for a relaxed time.</string>
+    <string name="valvan_dam">Lush greenery and calm surroundings make up the Valvan Dam, which
+        is a near perfect evening outing spot, near Lonavala. The Kundali River is the one which
+        feeds the dam, and it in return supplies the water to the Khopoli Hydroelectricity
+        Water Plant at the foothills of Sahyadri.</string>
+    <string name="rajmachi_fort">Midway between Lonavala and Khandala is a fort by the name of
+        Rajmachi Fort, a prominent landmark that watches over some of the most
+        breathtakingly beautiful and wide sceneries of the region.</string>
+    <string name="lohagad_fort">This is one of many forts of Chhatrapati Shivaji, adorned with
+        elements and styles of Maharshtrian architecture. Not only the grandeur of the structure,
+        but the sceneries and views all around, make it another favorite of all its visitors.
+    </string>
+    <string name="visapur_fort">Surrounded by a huge plateau, is a historical fort, land marking
+        the lush green and dreamy mountains of Khandala. A 3-hour drive away from Mumbai, this
+        one is often marked as a favorite for the monsoons.</string>
+    <string name="tiger_point">This is a popular tourist point, leaving tourists in awe with the
+        wondrous view from over 650m. The echo point is a major fascination. During the monsoon,
+        the waterfall here, also attracts many. It has got it's name from its appearance - like
+        that of a tiger leaping into the valley.
+    </string>
+    <string name="imagica">A world class entertainment park, Imagica Adlabs is a one of its kind
+        destination picnic spot with plethora of entertainment options.
+        Located on Mumbai-Pune Expressway, this theme park is one of the latest
+        additions in the list of Mumbai's entrainment hubs.</string>
+    <string name="aamby_valley">A one of its kind, this place is known for its irreplaceable
+        grandeur and plush signature features. The fountains of ecstasy, Sahyadri peaks and the
+        historic Koyarigarh fort offer a spectacular view of the grand Aambey valley city.</string>
+    <string name="karla_caves">The Karla Caves are reflection of mesmerizing beauty of the past
+        carved and decorated with great details. The place is a paradise for history lovers and
+        adventure buffs.</string>
+    <string name="bhaja_cave">Believed to be the oldest Buddhist religious site in the county,
+        it is declared as the national monument. The main attraction of the place are the
+        22 rock-cut caves which depict various sculptures , like that of a prince in a chariot,
+        a prince seated on an elephant, among others.</string>
+    <string name="ekvira_temple">The Ekvira Aai Mandir is a Hindu temple located near the Karla
+        Caves near Lonavala in Maharashtra, India. Here, the worship of the goddess Ekvira is
+        carried on right next to the caves, once a center of Buddhism. The temple is a prime
+        spot of worship for the Aagri-Koli People. </string>
+    <string name="rajmachi">Rajmachi Point is located at a walking distance from The Dukes Retreat.
+        This spot got its name because Rajmachi Fort of the incredible Maratha ruler Chatrapati
+        Sivaji is situated opposite to this point. The point offers spectacular views of
+        Rajmachi Fort, the surrounding valley and waterfalls. Rajmachi Point has a temple and a
+        children's park. This is also a famous area for movie producers.</string>
+</resources>

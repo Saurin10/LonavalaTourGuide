@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#C2185B</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#880E4F</color>
+
+    <color name="tab_color">#F06292</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#fce4ec</color>
+
+    <!-- Background color for the lake category -->
+    <color name="category_lake">#e1f5fe</color>
+
+    <!-- Background color for the fort members category -->
+    <color name="category_fort">#efebe9</color>
+
+    <!-- Background color for the cave category -->
+    <color name="category_cave">#eceff1</color>
+
+    <!-- Background color for the other category -->
+    <color name="category_other">#ede7f6</color>
+</resources>
